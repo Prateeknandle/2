@@ -1,0 +1,34 @@
+a{
+    color: white;
+    text-decoration: none;
+}
+a:hover{
+    color: tomato;
+}
+.gif{
+    text-align: center;
+}
+.under{
+    float: left;
+    margin: 1%;
+    border: 1px white solid;
+    padding: 3px;
+}
+.about{
+    color: white;
+    border: 8px white solid;
+    margin: auto;
+    width: 65%;
+    text-align: center;
+}
+.full{
+    color:white;
+    text-align: center;
+    text-decoration: underline;
+}
+.about h2{
+    text-align: start;
+}
+.about h4{
+    text-align: start;
+}

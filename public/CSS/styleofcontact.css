@@ -1,0 +1,50 @@
+.full{
+    border: 5px white solid;
+    margin: auto;
+    width: 80%;
+    color: white;
+    border-radius: 15%;
+}
+.full h1{
+    text-align: center       ;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 300%;
+}
+.full li{
+    font-size: x-large;
+
+}
+
+.full1{
+    border: 5px white solid;
+    margin: auto;
+    width: 80%;
+    color: white;
+    border-radius: 9%;
+}
+.full1 h1{
+    text-align: center;
+    text-decoration: underline;
+    text-transform: uppercase;
+    font-size: 300%;
+}
+.full1 li{
+    font-size: x-large;
+}
+.full1 h2{
+    text-align: center;
+}
+.under{
+    float: left;
+    margin: 1%;
+    border: 1px white solid;
+    padding: 3px;
+}
+a{
+    color: darksalmon;
+    text-decoration: none`;
+}
+a:hover{
+    color: red;
+}
